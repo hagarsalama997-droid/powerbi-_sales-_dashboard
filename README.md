@@ -34,3 +34,10 @@ This dashboard analyzes sales performance across products, territories, and orde
 - DAX Measures Creation
 - KPI Design
 - Interactive Dashboard Development
+
+## Dashboard Preview
+
+![Dashboard Screenshot](Screenshot 2026-02-16 011228.png)
+![Dashboard Screenshot](Screenshot 2026-02-16 011228.png)## 📊 Dashboard Preview
+
+![Dashboard Screenshot](Screenshot 2026-02-16 011228.png)
